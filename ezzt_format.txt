@@ -1,0 +1,13 @@
+Offset	Type		Description
+
+[ cer_file ]
+
+0x00	u16		File entry count
+0x02	f_entry[...]	File entries
+...			File data
+
+[ f_entry ]
+
+0x00	u16		File index
+0x02	u32		Offset, from beginning of file
+0x06	u32		Size, in bytes
