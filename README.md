@@ -15,3 +15,8 @@ findings so far.
 ## mml2zzt
 
 Converts .MML files ("Modern MML"/"Mabinogi" format) to ZZT sound code.
+
+## zgraph
+
+Graph generator/calculator for ZZT worlds. Requires NetworkX and pygraphviz.
+Work in progress.
