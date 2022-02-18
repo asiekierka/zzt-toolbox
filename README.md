@@ -16,6 +16,10 @@ findings so far.
 
 Converts .MML files ("Modern MML"/"Mabinogi" format) to ZZT sound code.
 
+## world_join
+
+Quick Zookeeper-based script to concatenate ZZT worlds.
+
 ## zgraph
 
 Graph generator/calculator for ZZT worlds. Requires NetworkX and pygraphviz.
