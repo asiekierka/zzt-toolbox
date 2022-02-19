@@ -16,9 +16,13 @@ findings so far.
 
 Converts .MML files ("Modern MML"/"Mabinogi" format) to ZZT sound code.
 
+## screenshot_grab
+
+Simple Zookeeper-based script to take screenshots from all boards of a given ZZT world.
+
 ## world_join
 
-Quick Zookeeper-based script to concatenate ZZT worlds.
+Simple Zookeeper-based script to concatenate ZZT worlds.
 
 ## zgraph
 
